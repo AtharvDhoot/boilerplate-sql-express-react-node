@@ -1,0 +1,12 @@
+#logs
+*.log
+
+#secrets
+*.token
+*.env
+
+#dependencies
+node_modules/
+
+#db
+db/config.js
