@@ -72,3 +72,11 @@ The project structure is organized as follows:
   - `logs`: Contains the logger config for handling api logs.
 - `frontend`: Contains the client-side code built with React.
   - `tailwind.config.js`: Contains tailwind configuration 
+
+## Contributing
+
+Contributions to this boilerplate setup are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
+
+## License
+
+This boilerplate setup is open-source and released under the [MIT License](LICENSE). Feel free to use it for personal or commercial projects.
